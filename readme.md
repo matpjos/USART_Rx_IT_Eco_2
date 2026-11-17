@@ -1,0 +1,1 @@
+receive a string through UART. UART Interrupt fires; echoes back the last received string. 
